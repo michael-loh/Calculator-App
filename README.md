@@ -1,6 +1,6 @@
 # calculator
 
-Calculator application. First app that I am building for experience.
+A simple calculator application built on the Flutter Platform.
 
 ## Getting Started
 
